@@ -1,2 +1,2 @@
 # Searching-algorithms
-Here three types of searching algorithms mentioned.
+Here three types of searching algorithms are mentioned.
